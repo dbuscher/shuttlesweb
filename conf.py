@@ -138,7 +138,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS = {DEFAULT_LANG: (("/news/", "News"), ("/galleries/", "Galleries"))}
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ("/news/", "News"),
+        ("/galleries/", "Galleries"),
+        ("/constitution/", "Constitution"),
+    )
+}
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
