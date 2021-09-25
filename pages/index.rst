@@ -38,11 +38,14 @@ Costs?
   -  Fees for guests - £6 (adult) £5 (student) per session (first visit is free).
   -  Termly fees are £38 (adult),£30 (student). There are three terms per year Sept-Dec, Jan-April, May-August.
 
-Phone?
- Gill or Steve Pugh on 01223 262 151
 
 Email?
- secretary@shuttlesclub.org.uk
+ Note that the contact email previously on this page will no longer work (too much spam was being sent). Below is a link to a new contact email address which aims to attract less spam by verifying that you are human.
+ 
+ .. raw:: html
+ 
+ 	Find the new contact email address here: <a target="_blank" href="https://mailhide.io/e/KgPjQzQM">https://mailhide.io/e/KgPjQzQM</a>
+ 
 
 See our `Facebook page <https://www.facebook.com/groups/1418304418491066/>`__ for more photos, videos etc. If anyone is interested in joining a League club, they should see the Cambridge City Badminton Club website at https://cambridgecitybadmintonclub.wordpress.com for more details. This club started at the Village College Sports Hall, Comberton, but currently plays at St Faith's School in Trumpington.
 
